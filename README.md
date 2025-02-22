@@ -14,4 +14,4 @@
 
 [CODIGO]https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/juego%20adivina%20el%20numero.py
 ## DIAGRAMAS DE FLUJO 
-[DG1]
+[DG1] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/DIAGRAMA%20NUMERO%201%20DE%20FLUJO%20.pdf
