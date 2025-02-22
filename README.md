@@ -10,7 +10,7 @@
 - Phytoon
 
 
-## Live Demo (if available)
+## DOCUMENTOS INFORMATIVOS 
 
 [CODIGO]https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/juego%20adivina%20el%20numero.py
 ## DIAGRAMAS DE FLUJO 
