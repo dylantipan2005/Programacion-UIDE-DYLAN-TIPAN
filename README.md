@@ -17,4 +17,5 @@
 [DG1] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/DIAGRAMA%20NUMERO%201%20DE%20FLUJO%20.pdf
 
 [Diagramanombreseintentos] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/DIAGRAMA%20PARA%20GUARDAR%20LOS%20NOMBRES%20E%20INTENTOS%20.drawio.png
-[DGADVN]
+
+[DGADVN] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/Diagrama%20adivina%20el%20numero.drawio.png
