@@ -12,5 +12,5 @@
 
 ## Live Demo (if available)
 
-[Portfolio]https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN
+[CODIGO]https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/juego%20adivina%20el%20numero.py
 ## Getting Started
