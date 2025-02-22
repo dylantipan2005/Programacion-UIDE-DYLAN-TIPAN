@@ -18,3 +18,4 @@ while True:
     else:
         print(f"¡Felicidades! Adivinaste el número en {intentos} intentos.")
         break
+
