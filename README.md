@@ -21,3 +21,4 @@
 [DGADVN] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/Diagrama%20adivina%20el%20numero.drawio.png
 
 [Diagrama num aleatorio ] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/generacion%20de%20numero%20aleatorio%20.drawio.png
+[Diagrama BUCLE ] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/BLUCE%20ADIVNA%20EL%20NUM.drawio.png
