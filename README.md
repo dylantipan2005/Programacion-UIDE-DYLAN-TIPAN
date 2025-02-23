@@ -20,4 +20,4 @@
 
 [DGADVN] https://github.com/dylantipan2005/Programacion-UIDE-DYLAN-TIPAN/blob/main/Diagrama%20adivina%20el%20numero.drawio.png
 
-[Diagrama num aleat]
+[Diagrama num aleatorio ]
